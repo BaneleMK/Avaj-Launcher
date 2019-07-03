@@ -1,12 +1,9 @@
 package avaj.simulation;
 
 import avaj.simulation.aircrafts.AircraftFactory;
-import avaj.simulation.*;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.util.ArrayList;
-import javax.print.DocFlavor.STRING;
 
 public class Simulation{
 
@@ -14,10 +11,11 @@ public class Simulation{
 
         WeatherTower weathertower = new WeatherTower();
 
-        if (args.length > 0){
+        if (args.length == 1){
             try{
                 // read file
                 BufferedReader br = new BufferedReader(new FileReader(args[0]));  
+                
 
                     // pass the first line for num of simulations
                     String line = br.readLine();
@@ -29,7 +27,7 @@ public class Simulation{
                         throw new RuntimeException("number of cycles is a non positive integer");
                     }
 
-                    /*
+                    /* Comment
                         // test to see if it parses the first line to int as per format expected
                         if (numofsims >= 0){
                         System.out.printf("number of sims: %d\n", numofsims); 
@@ -37,6 +35,7 @@ public class Simulation{
                             System.out.printf("number of sims: %d :: less then 0\n", numofsims); 
                         }
                     */
+
                     // main loop for making flyables (and registering them ???)
 
                     while ((line = br.readLine()) != null){
@@ -45,14 +44,15 @@ public class Simulation{
                         Integer.parseInt(line.split(" ")[2]),
                         Integer.parseInt(line.split(" ")[3]),
                         Integer.parseInt(line.split(" ")[4])));
-            
                 }
+                br.close();
                 
                 for(int i = 0; i < numofsims; i++){
-                    weathertower.conditionsChanged();
+                    weathertower.changeWeather();
                 }
+                fw.write("DEMO");    
 
-                br.close();
+
             } catch (Exception fException){
                 System.out.println("custom error : "+fException.getMessage()); 
             } 

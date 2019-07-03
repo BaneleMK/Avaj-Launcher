@@ -8,3 +8,4 @@
 ./avaj/simulation/Simulation.java
 ./avaj/simulation/Tower.java
 ./avaj/simulation/WeatherTower.java
+./avaj/weatherprovider/WeatherProvider.java

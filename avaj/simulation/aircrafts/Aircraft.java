@@ -2,7 +2,7 @@ package avaj.simulation.aircrafts;
 
 import avaj.simulation.aircrafts.Coordinates;
 
-public class Aircraft{
+public abstract class Aircraft{
     protected long id;
     protected String name;
     protected Coordinates coordinates;

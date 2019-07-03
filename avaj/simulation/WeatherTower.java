@@ -1,14 +1,14 @@
 package avaj.simulation;
 
+import avaj.simulation.aircrafts.Coordinates;
 import avaj.weatherprovider.*;
 
 public class WeatherTower extends Tower{
-    public String getWeather(){
-        return WeatherProvider.getWeather;
+    public String getWeather(Coordinates coordinates){
+        return WeatherProvider.getProvider().getCurrentWeather(coordinates);
     }
 
-    private void changeWeather(){
-        //this.conditionsChanged();
-        // do some change weather stuff, help?
+    void changeWeather(){
+        this.conditionsChanged();
     }
 };
