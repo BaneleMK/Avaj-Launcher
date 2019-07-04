@@ -1,4 +1,4 @@
-package avaj.simulation.aircrafts;
+package com.avaj.simulation.aircrafts;
 
 public abstract class AircraftFactory{
 

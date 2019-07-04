@@ -1,1 +1,1 @@
-reset && java avaj/simulation/Simulation scenario.txt
+reset && java com/avaj/simulation/Simulation scenario.txt

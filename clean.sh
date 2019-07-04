@@ -1,1 +1,0 @@
-rm aircrafts/AircraftFactory.class aircrafts/Aircraft.class aircrafts/Coordinates.class aircrafts/Flyable.class Tower.class WeatherTower.class aircrafts/Baloon.class aircrafts/Jetplane.class aircrafts/Helicopter.class

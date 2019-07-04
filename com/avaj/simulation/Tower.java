@@ -1,6 +1,6 @@
-package avaj.simulation;
+package com.avaj.simulation;
 
-import avaj.simulation.aircrafts.Flyable;
+import com.avaj.simulation.aircrafts.Flyable;
 import java.util.ArrayList;
 
 public abstract class Tower{

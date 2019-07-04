@@ -1,6 +1,6 @@
-package avaj.weatherprovider;
+package com.avaj.weatherprovider;
 
-import avaj.simulation.aircrafts.Coordinates;
+import com.avaj.simulation.aircrafts.Coordinates;
 
 public class WeatherProvider {
     private static WeatherProvider weatherProvider;
@@ -19,9 +19,6 @@ public class WeatherProvider {
     }
 
     public String getCurrentWeather(Coordinates coordinates){
-        // int weathervar = ((coordinates.getLatitude() + 1) * (coordinates.getLongitude() + 1) * (coordinates.getHeight() + 1)) % 4;
-        int weathervar = (coordinates.getLatitude() + coordinates.getLongitude() + coordinates.getHeight() + 1) % 4;
-        
-        return weather[weathervar];
+        return weather[(((coordinates.getLatitude()) % 4) + (coordinates.getLongitude() % 3) + ((coordinates.getHeight()) % 7)) % 4];
     }
 }

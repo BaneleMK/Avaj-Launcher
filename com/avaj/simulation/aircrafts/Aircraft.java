@@ -1,6 +1,6 @@
-package avaj.simulation.aircrafts;
+package com.avaj.simulation.aircrafts;
 
-import avaj.simulation.aircrafts.Coordinates;
+import com.avaj.simulation.aircrafts.Coordinates;
 
 public abstract class Aircraft{
     protected long id;

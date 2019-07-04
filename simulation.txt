@@ -1,1 +1,132 @@
-DEMO
+Tower says: Baloon#B1(0) registered to weather tower
+Tower says: Baloon#B2(1) registered to weather tower
+Tower says: Jetplane#J1(2) registered to weather tower
+Tower says: Helicopter#H1(3) registered to weather tower
+Tower says: Helicopter#H2(4) registered to weather tower
+Tower says: Helicopter#H3(5) registered to weather tower
+Tower says: Baloon#B3(6) registered to weather tower
+Tower says: Jetplane#J2(7) registered to weather tower
+Tower says: Helicopter#H4(8) registered to weather tower
+Baloon#B1(0): its raining, i wish balloons had some cover
+Baloon#B2(1): Its sunny so lets fly high honey
+JetPlane#J1(2): Weather is foggy so if you cant see a thing...yikes well your blind
+Helicopter#H1(3): Oh i know snow...yep you cant chop that, time to fly low
+Helicopter#H2(4): Oh i know snow...yep you cant chop that, time to fly low
+Helicopter#H3(5): Oh i know snow...yep you cant chop that, time to fly low
+Baloon#B3(6): Its sunny so lets fly high honey
+JetPlane#J2(7): Weather is foggy so if you cant see a thing...yikes well your blind
+Helicopter#H4(8): Whats Rain? ill chop it with my blades. up we go
+Baloon#B1(0): Well thats the end for my height
+Baloon#B2(1): Its sunny so lets fly high honey
+JetPlane#J1(2): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H1(3): What is this Fog thing? i cant see it. let me go up just a bit
+Helicopter#H2(4): Whats Rain? ill chop it with my blades. up we go
+Helicopter#H3(5): Whats Rain? ill chop it with my blades. up we go
+Baloon#B3(6): Well thats the end for my height
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Time to roll with the sun
+Baloon#B1(0): im legally blind in this fog...im taking us down
+Tower says: Baloon#B1(0) Landing
+Tower says: Baloon#B1(0) unregistered from weather tower 😂
+JetPlane#J1(2): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H1(3): Oh i know snow...yep you cant chop that, time to fly low
+Tower says: Helicopter#H1(3) Landing
+Tower says: Helicopter#H1(3) unregistered from weather tower 😂
+Helicopter#H3(5): Time to roll with the sun
+Baloon#B3(6): im legally blind in this fog...im taking us down
+JetPlane#J2(7): Weather is sunny HOT so passengers stay cool
+Helicopter#H4(8): Time to roll with the sun
+Baloon#B2(1): im legally blind in this fog...im taking us down
+JetPlane#J1(2): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H2(4): Oh i know snow...yep you cant chop that, time to fly low
+Helicopter#H3(5): Oh i know snow...yep you cant chop that, time to fly low
+Baloon#B3(6): im legally blind in this fog...im taking us down
+JetPlane#J2(7): Weather is foggy so if you cant see a thing...yikes well your blind
+Helicopter#H4(8): Oh i know snow...yep you cant chop that, time to fly low
+Baloon#B2(1): Well thats the end for my height
+JetPlane#J1(2): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H2(4): Whats Rain? ill chop it with my blades. up we go
+Helicopter#H3(5): What is this Fog thing? i cant see it. let me go up just a bit
+Baloon#B3(6): Well thats the end for my height
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Whats Rain? ill chop it with my blades. up we go
+Baloon#B2(1): im legally blind in this fog...im taking us down
+JetPlane#J1(2): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Tower says: JetPlane#J1(2) Landing
+Tower says: JetPlane#J1(2) unregistered from weather tower 😂
+Helicopter#H3(5): Time to roll with the sun
+Baloon#B3(6): im legally blind in this fog...im taking us down
+Tower says: Baloon#B3(6) Landing
+Tower says: Baloon#B3(6) unregistered from weather tower 😂
+Helicopter#H4(8): Time to roll with the sun
+Baloon#B2(1): im legally blind in this fog...im taking us down
+Helicopter#H2(4): Time to roll with the sun
+Helicopter#H3(5): Oh i know snow...yep you cant chop that, time to fly low
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Oh i know snow...yep you cant chop that, time to fly low
+Baloon#B2(1): Well thats the end for my height
+Helicopter#H2(4): Time to roll with the sun
+Helicopter#H3(5): Whats Rain? ill chop it with my blades. up we go
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): What is this Fog thing? i cant see it. let me go up just a bit
+Baloon#B2(1): im legally blind in this fog...im taking us down
+Helicopter#H2(4): Time to roll with the sun
+Helicopter#H3(5): Time to roll with the sun
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Time to roll with the sun
+Baloon#B2(1): im legally blind in this fog...im taking us down
+Helicopter#H2(4): Oh i know snow...yep you cant chop that, time to fly low
+Helicopter#H3(5): Oh i know snow...yep you cant chop that, time to fly low
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Oh i know snow...yep you cant chop that, time to fly low
+Baloon#B2(1): Well thats the end for my height
+Helicopter#H2(4): What is this Fog thing? i cant see it. let me go up just a bit
+Helicopter#H3(5): What is this Fog thing? i cant see it. let me go up just a bit
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Whats Rain? ill chop it with my blades. up we go
+Baloon#B2(1): im legally blind in this fog...im taking us down
+Helicopter#H2(4): Oh i know snow...yep you cant chop that, time to fly low
+Helicopter#H3(5): Oh i know snow...yep you cant chop that, time to fly low
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Time to roll with the sun
+Baloon#B2(1): im legally blind in this fog...im taking us down
+Helicopter#H2(4): Whats Rain? ill chop it with my blades. up we go
+Helicopter#H3(5): Whats Rain? ill chop it with my blades. up we go
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Time to roll with the sun
+Baloon#B2(1): Well thats the end for my height
+Tower says: Baloon#B2(1) Landing
+Tower says: Baloon#B2(1) unregistered from weather tower 😂
+Helicopter#H3(5): Time to roll with the sun
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Oh i know snow...yep you cant chop that, time to fly low
+Helicopter#H2(4): Time to roll with the sun
+Helicopter#H3(5): Oh i know snow...yep you cant chop that, time to fly low
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Whats Rain? ill chop it with my blades. up we go
+Helicopter#H2(4): Oh i know snow...yep you cant chop that, time to fly low
+Tower says: Helicopter#H2(4) Landing
+Tower says: Helicopter#H2(4) unregistered from weather tower 😂
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Time to roll with the sun
+Helicopter#H3(5): What is this Fog thing? i cant see it. let me go up just a bit
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Oh i know snow...yep you cant chop that, time to fly low
+Helicopter#H3(5): Time to roll with the sun
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): What is this Fog thing? i cant see it. let me go up just a bit
+Helicopter#H3(5): Oh i know snow...yep you cant chop that, time to fly low
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Helicopter#H4(8): Time to roll with the sun
+Helicopter#H3(5): Whats Rain? ill chop it with my blades. up we go
+JetPlane#J2(7): Weather is ..snowy? Yeah folks i cant keep cool in this weather im landing us in panic
+Tower says: JetPlane#J2(7) Landing
+Tower says: JetPlane#J2(7) unregistered from weather tower 😂
+Helicopter#H3(5): Time to roll with the sun
+Helicopter#H4(8): Oh i know snow...yep you cant chop that, time to fly low
+Tower says: Helicopter#H4(8) Landing
+Tower says: Helicopter#H4(8) unregistered from weather tower 😂
+Helicopter#H3(5): Oh i know snow...yep you cant chop that, time to fly low
+Helicopter#H3(5): What is this Fog thing? i cant see it. let me go up just a bit
+Helicopter#H3(5): Oh i know snow...yep you cant chop that, time to fly low
+Helicopter#H3(5): Whats Rain? ill chop it with my blades. up we go

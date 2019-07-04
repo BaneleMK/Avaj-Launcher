@@ -1,4 +1,4 @@
-package avaj.simulation.aircrafts;
+package com.avaj.simulation.aircrafts;
 
 public class Coordinates {
     private int longitude;
@@ -21,6 +21,10 @@ public class Coordinates {
 
     public int getHeight(){
         return this.height;
+    }
+
+    public String ownlocation(){
+        return "long: "+longitude+"|lat: "+latitude+"|height:"+height;
     }
 
     public void setaddLongitude(int nlongitude){
